@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.background-color-black {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.blue {
+  background-color: blue;
+}
+#hallo {
+  float: left;
+  width: 69%;
+  border: solid 5px red;
+  font-size: 40px;
+  background-color: #e84393;
+}
+#sidebar {
+  background-color: #74b9ff;
+  float: right;
+  width: 29%;
+  border: solid 6px yellow;
+  font-size: 40px;
+}
+a {
+  color: white;
+  font-size: 20px;
+}
+#Contact {
+  font-size: 75px;
+  color: white;
+  background-color: #130f40;
+}
+h1 {
+  padding: 15px;
+}

@@ -1,0 +1,19 @@
+#npara {
+  font-size: 45px;
+}
+ul {
+  list-style-type: none;
+  padding: 15px 20px;
+  border-bottom: 1px solid #9f9f9f;
+  font-size: 20px;
+}
+.text_para {
+  border: solid 6px black;
+}
+.text_para_tittle {
+  color: darkred;
+}
+h1 {
+  font-size: 40px;
+  color: darkred;
+}
